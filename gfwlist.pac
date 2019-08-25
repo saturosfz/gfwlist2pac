@@ -11,6 +11,10 @@ var rules = [
     ],
     [
         [
+            "arxiv.org",
+            "github.com",
+            "githubassets.com",
+            "githubusercontent.com",
             "aftygh.gov.tw",
             "aide.gov.tw",
             "aliyun.com",
